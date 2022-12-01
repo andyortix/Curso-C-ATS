@@ -27,7 +27,5 @@ Biblioteca Estándar de plantillas (SLT)
 _____________________________________________________________
 Aporte: Andy Ortiz
 Facebook: https://www.facebook.com/andyortiz.ec
-
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+
-Creador:
-Canal de YouTube del: https://www.youtube.com/programacionats
+_____________________________________________________________
+Creador: https://www.youtube.com/programacionats
