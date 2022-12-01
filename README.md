@@ -25,7 +25,6 @@ Análisis y eficiencia de Algoritmos
 Algoritmos Recursivos
 Biblioteca Estándar de plantillas (SLT)
 _____________________________________________________________
-Aporte: Andy Ortiz
-Facebook: https://www.facebook.com/andyortiz.ec
+Aporte: Andy Ortiz https://www.facebook.com/andyortiz.ec | https://andyortizec.blogspot.com/
 _____________________________________________________________
 Creador: https://www.youtube.com/programacionats
